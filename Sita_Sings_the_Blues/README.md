@@ -1,0 +1,2 @@
+# Sita Sing The Blue Videos
+Download "Sita Sing The Blue" Videos from [sitasingstheblues.com/watch.html](https://www.sitasingstheblues.com/watch.html), which are published under CC-0 license ("Public Domain") as specified in [LICENSE.txt](LICENSE.txt).

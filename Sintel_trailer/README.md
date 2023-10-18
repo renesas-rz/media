@@ -1,0 +1,2 @@
+# Sintel Trailer Videos
+Please download "Sintel trailer" videos from [download.blender.org/durian/trailer](https://download.blender.org/durian/trailer), which are published under Creative Commons Attribution 3.0 license as specified in [LICENSE.txt](LICENSE.txt).
